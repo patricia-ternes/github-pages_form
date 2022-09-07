@@ -71,7 +71,6 @@ As example, I created a working Contact Form available at:
 - the `css` layout definition (optional): [assets/css/form.css][6]
 - the working GitHub [webpage][7]
 
-
 [1]: https://www.youtube.com/watch?v=IP6HsgwQkvs&ab_channel=WebJeda
 [2]: https://www.w3schools.com/howto/howto_css_contact_form.asp
 [3]: https://formspree.io/
