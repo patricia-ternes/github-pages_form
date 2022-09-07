@@ -2,7 +2,7 @@
 
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
-  width: 80%; /* Full width */
+  width: 100%; /* Full width */
   padding: 12px; /* Some padding */ 
   border: 1px solid #ddd; /* Gray border */
   border-radius: 4px; /* Rounded borders */
