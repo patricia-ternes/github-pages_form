@@ -1,6 +1,6 @@
 # GitHub Pages Forms 
 
-In this repository I show a simple way of using forms in GitHub/Jekyll pages.
+In this repository I show a simple way of using forms in GitHub/Jekyll pages (without PHP or JavaScript).
 
 ## Credits
 
